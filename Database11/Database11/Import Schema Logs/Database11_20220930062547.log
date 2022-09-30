@@ -1,0 +1,10 @@
+30-09-2022 11:55:47	This log contains information about the import schema operation into project 'Database11' on computer 'ASPL142' by user 'user'.
+30-09-2022 11:55:47	Deserializing model
+30-09-2022 11:55:47	Resolving model
+30-09-2022 11:55:47	Visiting imported model for types
+30-09-2022 11:55:47	Scanning project for duplicate elements
+30-09-2022 11:55:47	Finished duplicate element processing
+30-09-2022 11:55:48	Processing extra files
+30-09-2022 11:55:48	Finished importing Data-tier Application file.
+30-09-2022 11:55:48	A summary of the import was saved to the following location: C:\Users\user\source\repos\Database11\Database11\Import Schema Logs\Database11_20220930062547.log
+30-09-2022 11:55:48	Click Finish to continue...

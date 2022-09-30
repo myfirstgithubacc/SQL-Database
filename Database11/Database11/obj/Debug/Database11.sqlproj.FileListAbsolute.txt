@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Database11\Database11\bin\Debug\Database11.dacpac
+C:\Users\user\source\repos\Database11\Database11\bin\Debug\Database11.dll
+C:\Users\user\source\repos\Database11\Database11\bin\Debug\Database11.pdb
+C:\Users\user\source\repos\Database11\Database11\obj\Debug\Database11.sqlprojAssemblyReference.cache
+C:\Users\user\source\repos\Database11\Database11\obj\Debug\Database11.dll
+C:\Users\user\source\repos\Database11\Database11\obj\Debug\Database11.pdb
